@@ -12,7 +12,7 @@
 
 ## ✨ Overview
 
-**N-Queen Explorer** is an enterprise-grade, highly interactive web platform engineered for software engineers, computer science students, and technical interview candidates. It dissects the classical **$N$-Queen Backtracking Problem** across $4 \times 4$ through $14 \times 14$ chessboards in real time, demonstrating precisely how constraint pruning and bitwise operations reduce exponential search spaces ($O(N^N)$ and $O(N!)$) down to sub-second execution speeds.
+**N-Queen Explorer** is an enterprise-grade, highly interactive web platform engineered for software engineers, computer science students, and technical interview candidates. It dissects the classical **$N$-Queen Backtracking Problem** across $4 \times 4$ through $14 \times 14$ chessboards in real time, demonstrating precisely how constraint pruning and bitwise operations reduce exponential search spaces ($O(N^N)$ and ($O(N!)$ down to sub-second execution speeds.
 
 ---
 
